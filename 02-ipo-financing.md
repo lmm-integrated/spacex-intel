@@ -20,7 +20,9 @@ Source: SpaceX official pricing announcement (content.spacex.com); CNBC, NPR, NB
 | 2026-06-12 (open) | ~$150 | +11% |
 | 2026-06-12 (close) | ~$160.95 | +19%, briefly >$2T market cap |
 | 2026-06-16 (high) | $225.64 | all-time high |
-| 2026-06-22 | **~$165** | **down ~11% on the day** (prior close $185; off the $225.64 June 16 high). ~$2.18T market cap on 13.17B shares |
+| 2026-06-22 | **$165.78** | **down ~10% on the day** (prior close $185; off the $225.64 June 16 high). ~$2.18T market cap on 13.17B shares |
+
+_Refresh 2026-06-22: no material changes since the brief was authored earlier today. Price confirmed at $165.78 / ~$2.18T cap; bond still launched-not-priced; FAA Flight 12 investigation still open (Flight 13 targeted early Jul); Cursor deal announced Jun 16, closing Q3; Grok 5 still in training. See [10-catalyst-calendar.md](10-catalyst-calendar.md)._
 
 The post-IPO/post-bond enthusiasm is cooling. Selling pressure coincides with the $20B+ debt raise into a cash-burning AI segment and an all-stock Cursor deal that some read as "rich currency funding the burn."
 

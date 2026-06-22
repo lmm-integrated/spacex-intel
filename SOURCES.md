@@ -94,6 +94,16 @@ Validation pass run 2026-06-22 from a logged-in session. Citations are handle + 
 - Starlink 2026 segment estimate (Quilty): ~$20B rev / ~$14B EBITDA / ~16.8M subs (Consumer ~$11.3B, Enterprise ~$1.68B, Maritime ~$1.94B, Starshield ~$3.2B). Balance sheet (S-1): FY2025 capex ~$20.7B, cash ~$24.7B YE2025 -> ~$15.9B Q1 2026 (~$8.8B/qtr burn), ~$29.1B debt.
 - **$SPCX live quote** (X cashtag widget), Jun 22 2026: ~$168.89, -8.71% on the day.
 
+## Refresh 2026-06-22 (same-day re-verification)
+
+- TradingView / Yahoo / public.com (SPCX, 2026-06-22): $165.78, prior close $185.00, market cap $2.18T; post-IPO high $225.64 (Jun 16), low $149.34 (Jun 12). https://www.tradingview.com/symbols/NASDAQ-SPCX/ ; https://finance.yahoo.com/quote/SPCX/
+- Bond still launched-not-priced: CNBC "SpaceX makes bond sale days after record IPO" (2026-06-22) https://www.cnbc.com/2026/06/22/spacex-spcx-bond-sale-ipo.html ; SpaceX IR inaugural bond issuance https://ir.spacex.com/updates/releases-details/2026/Space-Exploration-Technologies-Corp--Announces-Inaugural-Bond-Issuance-2026-VOzvzAjhMA/default.aspx . Coupon/size/tranches not yet disclosed.
+- Starship Flight 12 mishap investigation still open as of 2026-06-22; Flight 13 targeted early July, pending FAA clearance + static fires. SpaceflightNow (2026-05-27) https://spaceflightnow.com/2026/05/27/faa-requires-spacex-led-mishap-investigation-before-resumption-of-starship-launches/ ; spacelaunchschedule.com Flight 13 https://www.spacelaunchschedule.com/launch/starship-flight-13/
+- Grok 5 still in training; Manifold/prediction-market ~33% odds of shipping by Jun 30 2026; no independent benchmarks yet. https://x.ai/news
+- Cursor/Anysphere $60B all-stock deal announced Jun 16 2026, expected to close Q3 2026 pending regulatory clearance. CNBC https://www.cnbc.com/2026/06/16/spacex-spcx-cursor-acquisition-ipo.html
+- Leases unchanged: Google $920M/mo Oct 2026-Jun 2029, 90-day termination after Dec 31 2026; Anthropic 90-day mutual cancellation after initial period. TechCrunch https://techcrunch.com/2026/06/05/google-will-pay-spacex-920m-per-month-for-compute/
+- Vera Rubin: production H2 2026, CoWoS/HBM4-constrained; no disclosed xAI allocation. TechTimes Computex 2026 https://www.techtimes.com/articles/317079/20260524/nvidia-computex-2026-jensen-huang-flies-tsmc-vera-rubin-ramp-strains-taiwan-supply-chain.htm
+
 ## Notes on confidence
 
 The corporate structure, IPO mechanics, S-1 financials, GPU cluster figures, and the Anthropic/Google leases are primary-sourced and high-confidence. The H100-equivalent totals are our own arithmetic (clearly flagged). The Vera Rubin ~20% is a hedged analyst estimate, not a disclosed commitment, and is contradicted by the S-1's statement that SpaceX holds no long-term chip-supply contracts. AI1 specs are confirmed-as-announced; feasibility is unproven.
