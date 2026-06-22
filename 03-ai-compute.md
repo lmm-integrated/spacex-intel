@@ -37,8 +37,17 @@ Using Nvidia's multiplier (GB200 ≈ 4x H100 for LLM training, ~5x raw FLOPS; GB
 xAI's Colossus 1 had an "embarrassingly low" ~11% training utilization on its mixed-GPU architecture, so Grok training moved to the all-Blackwell Colossus 2 and the stranded Colossus 1 capacity got leased out.
 
 - **Anthropic (Colossus 1)** `[HIGH]`: announced 2026-05-06. Anthropic rents **all** of Colossus 1 (300+ MW, ~220,000 GPUs), paying **$1.25B/month through May 2029** (~$40-45B headline). Triggered the May 2026 Claude Code rate-limit increases. Source: Anthropic's own post; SpaceX S-1.
-- **Google (Colossus)** `[HIGH]`: disclosed 2026-06-05 via SEC filing. **Google pays SpaceX ~$920M/month, Oct 2026 to June 2029 (~$30B), for ~110,000 Nvidia GPUs.** Google is the *customer* (bridge capacity for Gemini Enterprise), not a provider. Source: SpaceX Free Writing Prospectus; TechCrunch.
+- **Google (Colossus)** `[HIGH]`: disclosed 2026-06-05 via SEC filing. **Google pays SpaceX ~$920M/month, Oct 2026 to June 2029 (~$30B), for ~110,000 units** (note: mixes GPUs + CPUs + memory). Google is the *customer* (bridge capacity for Gemini Enterprise), not a provider. Source: SpaceX Free Writing Prospectus; TechCrunch.
+- **Reflection AI (Colossus 2)** `[HIGH]`: reported 2026-06-22 by CNBC ("materials viewed by CNBC"). The open-source AI startup (last valued ~$25B pre-money) gets immediate **GB300** access and pays **$150M/month from July 1, 2026 through 2029 (~$6.3B)**. Reflection works with the DOE Genesis Mission and Pentagon AI efforts; the strategic angle is open-source/"American open intelligence." Note: this broke via CNBC, not an official @SpaceX post. Source: CNBC.
 - The S-1's Anthropic cloud agreements are scoped at **~325,000 Nvidia GPUs across both sites** (tenant figure, distinct from installed cluster counts).
+
+**Customer roster (4 external compute tenants):** Anthropic ($1.25B/mo), Google ($920M/mo), Reflection ($150M/mo), plus Cursor (which SpaceX is acquiring). Combined headline run-rate is **~$2.3B/month (~$28B/year)** if all run full term, but every lease carries the 90-day mutual-cancellation clause.
+
+### Implied monetization `[LOW: our math]`
+- Anthropic: $1.25B/mo ÷ ~220,000 GPUs ≈ **~$5,700/GPU/month** (mixed Hopper/Blackwell).
+- Google: $920M/mo ÷ ~110,000 units ≈ ~$8,400/unit/month (but the unit count blends GPU+CPU+memory, so not directly comparable).
+- Reflection: $150M/mo for undisclosed GB300 count. At a ~$8,000/GB300/mo assumption that implies ~18,000-19,000 GB300s.
+- For reference, public neocloud H100 rental runs ~$2-3/GPU-hr (~$1,500-2,200/mo). SpaceX's blended rates look healthy, and because Colossus 1 was already built and ~89% idle, the contribution margin on that lease is estimated at **80%+** (reverts toward the 45-70% neocloud band on greenfield-financed capacity).
 
 **Caveat `[HIGH]`:** Musk characterized the Anthropic deal as "a 180-day lease with 90-day mutual cancellation." Both leases reportedly carry 90-day mutual exit clauses, so the multi-year "$40B / $30B" totals are soft run-rate figures, not locked commitments.
 

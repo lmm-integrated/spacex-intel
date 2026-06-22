@@ -61,6 +61,22 @@ Validation pass run 2026-06-22 from a logged-in session. Citations are handle + 
 - **@pmarca** (Marc Andreessen) / **@a16z**, Jun 15 2026: article "SpaceX & the Sentient Sun" (with @mikemcg0); post-merger mission statement; Musk comp package first award vesting at a $7.5T valuation.
 - **@BlackIntus**, Jun 20 2026: Cursor backstory; UBS reportedly found ~14% of AI-using employees still used Cursor "after Claude Code ate its lunch"; CEO Truell emergency all-hands.
 - **@_BryanWilson**, Jun 17 2026: "All-stock deals are a tell: management believes the currency is rich. They're cashing a temporary pop."
+- **@elonmusk**, Apr 8 2026 (28.3M views): "SpaceXAI Colossus 2 now has 7 models in training: Imagine V2, 2 variants of 1T, 2 variants of 1.5T, 6T, 10T. Some catching up to do." (status 2041754402239975479)
+
+## Added 2026-06-22 (Reflection, Grok, satellite/DTC, valuation)
+
+- CNBC, "SpaceX signs compute deal with open-source AI startup Reflection" (2026-06-22): https://www.cnbc.com/2026/06/22/spacex-ai-colossus-data-center-reflection.html. Reflection AI, GB300, $150M/mo from Jul 1 2026 through 2029 (~$6.3B), 90-day cancellation; Reflection last valued ~$25B; DOE Genesis Mission + Pentagon work.
+- TechCrunch, "xAI burned $6.4B last year, SpaceX's IPO filing shows..." (2026-05-20): https://techcrunch.com/2026/05/20/xai-burned-6-4b-last-year-spacexs-ipo-filing-shows-why-the-spending-is-far-from-over/. Grok 117M MAU / 550M ecosystem; AI segment $3.2B rev, $6.4B op loss; AI capex $12.7B.
+- Jonathan McDowell satellite catalog, planet4589.org (2026-06-22): Starlink 12,342 launched / ~10,687 in orbit / ~10,671 operational; generation split.
+- GeekWire / CNBC: ~70 Starlink sats/week from Redmond; Bastrop = terminals (~15,000/day).
+- Space.com / SpaceNews / AIAA: 2025 = 165 launches (123 Starlink); booster B1067 = 35 flights.
+- SpaceNews / Breaking Defense: Space Force "Backbone" (ex-MILNET) $2.29B OTA (May 2026).
+- DefenseScoop / Bloomberg: Golden Dome space-based interceptor OTAs, 12 firms, up to $3.2B ceiling (Apr 2026).
+- DataCenterDynamics / Broadband Breakfast / EchoStar 8-K (SEC, Sept 2025): ~$17B EchoStar AWS-4 + H-block (~50 MHz), $8.5B cash + $8.5B stock + ~$2B interest. https://www.sec.gov/Archives/edgar/data/0001415404/000141540425000041/tmb-20250907xex99d1.htm
+- SpaceNews (Nov 2025): ~$2.6B EchoStar AWS-3 follow-on (15 MHz, Band n70), all-stock.
+- 24/7 Wall St / SEC 8-Ks (Apr 2026): Amazon ~$11.6B Globalstar acquisition (includes Apple stake); Amazon Leo D2D from 2028.
+- Valuation / analyst views (as reported, 2026-06): Arete (Andrew Beale) Buy, $401 Street-high; Oppenheimer (Tim Horan) Outperform, ~$250; CFRA (Keith Snyder) Sell, $115; Jim Chanos (short, iConnections ~Jun 10); Morningstar fair value reportedly ~$63 `[unverified]`; stockanalysis.com for comps (Nvidia ~20x, Tesla ~15x, CoreWeave ~10x P/S).
+- Vera Rubin ~20% allocation: Altimeter's Clark Tang on the BG2 podcast ("perhaps up to 20%"), repackaged by NextBigFuture. Estimate only; no Nvidia/SpaceX/SEC confirmation.
 - **$SPCX live quote** (X cashtag widget), Jun 22 2026: ~$168.89, -8.71% on the day.
 
 ## Notes on confidence
