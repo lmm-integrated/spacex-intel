@@ -9,6 +9,7 @@
 - **Primary-only offering:** no existing holder sold at listing; all proceeds went to SpaceX.
 - Issuer is the consolidated parent, Space Exploration Technologies Corp. Not a Starlink carve-out.
 - Musk reportedly became the **world's first trillionaire** on the debut.
+- Allocation mechanics: ~**30% reserved for retail** (vs the usual 5-10%) and up to ~5% for employees/friends; ~500M+ shares traded day one (among the largest IPO-day volumes in Nasdaq history); underwriter fees ~$500M (~0.75% rate). A Fortune piece also flagged a real risk that some private "secondary market" SpaceX holders may own worthless/fraudulent paper (scale unquantified).
 
 Source: SpaceX official pricing announcement (content.spacex.com); CNBC, NPR, NBC, Fortune.
 
@@ -53,7 +54,7 @@ Widely reported that the IPO created **~4,400 employee millionaires in a single 
 - **Launched 2026-06-22** (the day this brief was written): SpaceX's **inaugural offering of senior unsecured notes**, at least **$20B**, offered to QIBs under Rule 144A / Reg S. **Launched but not yet priced**, so coupon/yield/tranches are not final.
 - Rated **Baa1 (Moody's) / BBB+ (Fitch) / BBB (S&P)**, assigned 2026-06-18.
 - Arrangers: BofA, Citi, Goldman, JPMorgan, Morgan Stanley.
-- **Use of proceeds:** repay in full the **~$20B bridge loan** (matures Sept 2027) and general corporate purposes. That bridge had itself retired **~$17.5B of high-interest (up to ~12.5% coupon) junk debt inherited from xAI and X Corp**, roughly halving the interest bill.
+- **Use of proceeds:** repay in full the **~$20B bridge loan** (matures Sept 2027, ~4.58% rate) and general corporate purposes (broad enough to fund GPU/datacenter capex). That bridge had itself retired **~$17.5B of high-interest (up to ~12.5% coupon) junk debt inherited from xAI and X Corp**, cutting annual interest roughly in half (to ~$900M). Notes reportedly span 5 to 30 year maturities.
 - SpaceX disclosed **~$100.8B cash** as of 2026-06-19, plus 18,712 BTC (~$1.3B).
 - Market color (X @junkbondinvest, Jun 21): IG debut of "$20bn+, on a path to potentially hit **$250bn of debt by 2030**," pricing comps from AT&T/Intel (~100bps, bull) to Oracle (~170bps on cash burn, bear).
 
@@ -69,6 +70,7 @@ Secondary/tender offers set the run-up: **~$350B (Dec 2024) -> ~$400B at $212/sh
 - **Net loss ~$4.9B**; the **AI/xAI segment alone drove a ~$6.35B operating loss** on ~$3.2B of AI revenue.
 - IPO pitched on a **$28.5T TAM**, $26.5T of it tied to AI.
 - **Balance sheet / burn:** ~$20.7B FY2025 capex (AI $12.7B / Connectivity $4.2B / Space $3.8B). Cash fell from ~$24.7B (YE2025) to ~$15.9B (Q1 2026), roughly **$8.8B/quarter burn** driven by AI capex. ~$29.1B long-term debt, mostly the bridge loan. The ~$100.8B cash on hand (June 19) is the IPO proceeds landing on top of that.
+- **Headcount is uncertain:** third-party trackers range widely (Revelio ~11,200 Dec 2025, Tracxn ~19,280 May 2026, PitchBook ~22,000), muddied by the xAI merger. No clean official SpaceX-only figure surfaced.
 
 The legacy space + Starlink business is the cash engine; the AI arm is the burn. The IPO, the bond, and the compute leases are how they fund it.
 

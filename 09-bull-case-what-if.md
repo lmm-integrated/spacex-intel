@@ -16,6 +16,13 @@ We red-teamed each assumption. The bull case requires the whole stack to hit; th
 
 So read what follows as: *if the dice land right.*
 
+### What each what-if actually requires (and the risk that breaks it)
+- **20% Vera Rubin:** needs Nvidia to carve ~1-in-5 of its scarcest early Rubin units to a non-hyperscaler over CoreWeave/Oracle/Microsoft/Meta/OpenAI, SpaceX to confirm it (it hasn't), Rubin to ship early enough, and the sites to be liquid-cooling-ready for 1,800-2,300W GPUs. *Breaks if:* the figure is wrong, it's one hedged podcast estimate with the hedges stripped by aggregators.
+- **Grok frontier by Sept:** needs Grok 5 (6T) shipping in usable, independently-verified form by ~July-Aug at or above Opus 4.8 / GPT-5.5, which are themselves iterating. *Breaks if:* schedule slips (already missed Q1 and Q2; ~45% odds before Sept).
+- **Starship 13+14 + V3/reuse:** needs the FAA to clear Flight 12 fast, two clean flights months apart, and (for a ship catch) two perfect ocean landings first. *Breaks if:* cadence slips or any flight fails; the reuse precondition is one the program just failed.
+- **Rubin fills Colossus 2:** needs Nvidia H2-2026 volume (HBM4-gated) AND a real early xAI allocation. *Breaks if:* it's just a late-2026/2027 increment, since Colossus 2 is already filling with Blackwell.
+- **Lease renewals:** needs AI compute so tight that Google/Anthropic still can't self-supply, their own buildouts to slip, and pricing to hold. *Breaks if:* either exits at the Dec-31 window, both are explicitly building their own silicon and call the deals short-term bridges.
+
 ## Does a Vera Rubin purchase even show up in filings? (your question)
 
 Mostly no, not where you'd expect:

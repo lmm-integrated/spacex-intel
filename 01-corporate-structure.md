@@ -39,6 +39,7 @@ These are different. Tesla shareholders had *rejected* a separate proposal to au
 
 - Musk holds ~40-42% of SpaceX equity post-IPO but **~82.4% of voting power** via dual-class shares (Class B = 10 votes). SpaceX is a controlled company. `[HIGH]`
 - Musk's SpaceX **compensation package** is reportedly structured around valuation milestones, the first award vesting at a **$7.5 trillion** valuation. Source: a16z article "SpaceX & the Sentient Sun" (@pmarca, @mikemcg0, Jun 15 2026). `[MED]`
+- The post-merger **mission statement** that a16z quotes: *"scaling to make a sentient sun to understand the Universe and extend the light of consciousness to the stars."* Andreessen himself called it "either the most ridiculous thing a serious company" has said. Useful as a tell for how the company frames its ambition (and its multiple). `[MED]`
 
 ## Why this matters for the rest of the brief
 

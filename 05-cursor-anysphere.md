@@ -18,6 +18,8 @@ Sources: official @SpaceX (Jun 16); CNBC, TechCrunch, CBS, Reuters/Yahoo.
 | Apr 21 2026 | SpaceX takes a **$60B call option + ~$10B collaboration/break-up fee**, preempting a nearly-closed ~$2B round at ~$50B (a16z, Thrive, Nvidia) |
 | Jun 16 2026 | SpaceX **exercises** the option |
 
+The ~$10B April figure is described variously as a collaboration payment, an xAI investment, and a break-up fee; per IPO filings it splits roughly **$1.5B cash + $8.5B compute**, dropping to ~$4B in an antitrust-failure scenario. Anysphere was founded in 2022 by CEO **Michael Truell** and three MIT classmates.
+
 ## The backstory worth knowing `[MED]`
 
 Per X @BlackIntus (Jun 20): Cursor was "nearly written off in January." UBS reportedly found only **~14% of AI-using employees still used it** "after Claude Code ate its lunch." CEO Michael Truell called an emergency all-hands before the SpaceX rescue. Cursor's ARR had scaled fast (from ~$100M in Jan 2025 to a reported ~$3B by mid-2026), but the competitive erosion is the subtext of why a $60B all-stock exit looked attractive.

@@ -19,6 +19,8 @@ Launched **2026-05-22, 22:30 UTC** from Pad 2, Starbase, the **V3 / Raptor 3 deb
 
 If you've seen a description of "Flight 13" with a V3 debut, booster splashdown failure, and Starlink simulators, that's actually Flight 12.
 
+**Flight history for context:** Flights 10 and 11 (V2) both succeeded with controlled ship splashdowns; the earlier Flight 9 mishap (root cause: a fuel-component failure) was FAA-closed before Flight 10. Flight 12 was the V3 debut and the first failure of the V3 era. Musk's stated rule: a tower catch is attempted only after **two perfect ocean soft-landings**, and Flight 12 was not perfect, so the catch counter for V3 is effectively at zero.
+
 ## Core space business context `[MED]`
 
 - **Launch cadence:** record ~165 orbital launches in 2025; pacing toward ~140-145 Falcon launches in 2026. Swept 100% of NSSL Phase 3 Lane 1 task orders. ~$22B cumulative federal awards.
@@ -39,5 +41,6 @@ Officially unveiled **2026-06-08** by SpaceX (official @SpaceX post + @SawyerMer
 ### For comparison (not SpaceX)
 - **Starcloud-1** (Nvidia H100, launched Nov 2, 2025 on a Falcon 9) did the first in-orbit LLM inference and training, the only space-AI effort to fly working hardware so far. Independent startup, not Musk.
 - **Google Project Suncatcher** (orbital TPUs with Planet) is also pre-prototype, ~2027.
+- **NVIDIA** launched a "Space Computing" product line at GTC (March 2026): the Space-1 Vera Rubin module (~25x H100 for space inference), IGX Thor, Jetson Orin. Named partners were Starcloud, Planet, Axiom, Kepler, Aetherflux, Sophia Space; **SpaceX was NOT among them** (AI1 uses SpaceX's own vendor-agnostic payload).
 
 See [SOURCES.md](SOURCES.md) for full citations.
