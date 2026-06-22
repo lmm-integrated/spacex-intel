@@ -77,6 +77,17 @@ Validation pass run 2026-06-22 from a logged-in session. Citations are handle + 
 - 24/7 Wall St / SEC 8-Ks (Apr 2026): Amazon ~$11.6B Globalstar acquisition (includes Apple stake); Amazon Leo D2D from 2028.
 - Valuation / analyst views (as reported, 2026-06): Arete (Andrew Beale) Buy, $401 Street-high; Oppenheimer (Tim Horan) Outperform, ~$250; CFRA (Keith Snyder) Sell, $115; Jim Chanos (short, iConnections ~Jun 10); Morningstar fair value reportedly ~$63 `[unverified]`; stockanalysis.com for comps (Nvidia ~20x, Tesla ~15x, CoreWeave ~10x P/S).
 - Vera Rubin ~20% allocation: Altimeter's Clark Tang on the BG2 podcast ("perhaps up to 20%"), repackaged by NextBigFuture. Estimate only; no Nvidia/SpaceX/SEC confirmation.
+
+## Added 2026-06-22 (bull-case / valuation model, file 09)
+
+- stockanalysis.com (SPCX, 2026-06-22): 13.17B shares outstanding; intraday ~$165 (down ~11% from $185 prior close); ~$2.18T market cap; post-IPO high $225.64 (Jun 16). https://stockanalysis.com/stocks/spcx/
+- Analyst targets (per stockanalysis.com forecast + Yahoo/TheStreet/CoinCentral): Arete (Andrew Beale) $401 Buy (Street-high, ~$5.3T, ~80x 2027 sales -> ~$66B implied); Oppenheimer (Tim Horan) $250 (raised from $190); KGI $227; Wolfe (Myles Walton) $175; New Street $165; CFRA (Keith Snyder) $115 Sell; Morningstar $63 Sell. Consensus ~$188 avg / $175 median. https://stockanalysis.com/stocks/spcx/forecast/
+- Comp multiples (stockanalysis.com, 2026-06-22): Nvidia 20x P/S (11.6x fwd); Nebius 83x (13.7x fwd, +243% growth); Palantir 59x (36x fwd); CoreWeave 9.6x (3.8x fwd); Tesla 15x; MSFT 9x; GOOGL 11x; AMZN 3.5x. Peak-Nvidia P/S ~27-28x (Jan 2024).
+- SOTP: FutureSearch.ai SpaceX IPO valuation (~$1.25T fair value; Starlink all-forms $602B, xAI/Grok $258B, Starship $170B). https://futuresearch.ai/spacex-ipo-valuation/
+- Disclosure mechanics: SpaceX S-1/A (PO-basis, no long-term chip commitments; Commitments & Contingencies footnote) https://www.sec.gov/Archives/edgar/data/1181412/000162828026040364/spaceexplorationtechnologib.htm ; SpaceX 8-K launching senior notes (2026-06-22) https://www.sec.gov/Archives/edgar/data/0001181412/000162828026044489/spcx8-kxlaunchseniornotes.htm ; Nvidia 10-Q customer concentration (anonymized "Customer A/B"). First post-IPO 10-Q expected ~late July to August 2026.
+- Lease renewal risk: TechCrunch "how long is Anthropic's lease" (90-day terms) https://techcrunch.com/2026/05/28/how-long-is-anthropics-lease-with-spacex-opinions-vary/ ; Anthropic Google/Broadcom TPU + Amazon Trainium buildouts (both customers self-supplying). S-1 warns ~$26B compute revenue could compress in 18-24 months.
+- Grok benchmark gap: Artificial Analysis Intelligence Index (Grok 4.3 = 53, #4; Opus 4.8 = 61.4). https://artificialanalysis.ai/ ; Grok 5 ship odds ~45% before Sept 2026 (Manifold).
+- Vera Rubin timeline: Nvidia ships first VR200 samples ~Feb 2026, production H2 2026, HBM4-constrained (SK Hynix ramp slip). https://www.techpowerup.com/346786/nvidia-ships-first-vera-rubin-vr200-samples-to-customers
 - **$SPCX live quote** (X cashtag widget), Jun 22 2026: ~$168.89, -8.71% on the day.
 
 ## Notes on confidence

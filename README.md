@@ -31,6 +31,7 @@ This brief was assembled from primary filings (SpaceX's SEC Form S-1 / S-1/A, of
 | [06-grok.md](06-grok.md) | Grok model roadmap (the 6T/10T-parameter models), usage, monetization, training compute |
 | [07-satellite-starlink-dtc.md](07-satellite-starlink-dtc.md) | The satellite/Starlink business (constellation, manufacturing, financials, government) and Direct-to-Cell |
 | [08-forward-thesis-valuation.md](08-forward-thesis-valuation.md) | **Forward-looking:** inference (Vera Rubin placement, margins, moat), forecast (revenue build), valuation / investment thesis |
+| [09-bull-case-what-if.md](09-bull-case-what-if.md) | **Most speculative:** the bull "what-if" scenario (assumes the upside catalysts hit), an adversarial plausibility check, and a valuation/share-price runway model to ~$250-400 |
 | [SOURCES.md](SOURCES.md) | Master source list: primary filings, press, and X.com posts |
 
 ## The one-paragraph version
