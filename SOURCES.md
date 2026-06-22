@@ -88,6 +88,10 @@ Validation pass run 2026-06-22 from a logged-in session. Citations are handle + 
 - Lease renewal risk: TechCrunch "how long is Anthropic's lease" (90-day terms) https://techcrunch.com/2026/05/28/how-long-is-anthropics-lease-with-spacex-opinions-vary/ ; Anthropic Google/Broadcom TPU + Amazon Trainium buildouts (both customers self-supplying). S-1 warns ~$26B compute revenue could compress in 18-24 months.
 - Grok benchmark gap: Artificial Analysis Intelligence Index (Grok 4.3 = 53, #4; Opus 4.8 = 61.4). https://artificialanalysis.ai/ ; Grok 5 ship odds ~45% before Sept 2026 (Manifold).
 - Vera Rubin timeline: Nvidia ships first VR200 samples ~Feb 2026, production H2 2026, HBM4-constrained (SK Hynix ramp slip). https://www.techpowerup.com/346786/nvidia-ships-first-vera-rubin-vr200-samples-to-customers
+- Lease renewal risk: Anthropic locked 5GW+ Google/Broadcom TPU (~1GW 2026 -> 3GW+ 2027) + up to 5GW Amazon Trainium; S-1 warns ~$26B compute revenue could compress in 18-24 months and flags xAI cash risk if Anthropic terminates. https://www.tomshardware.com/tech-industry/broadcom-expands-anthropic-deal-to-3-5gw-of-google-tpu-capacity-from-2027 ; https://techcrunch.com/2026/06/05/google-will-pay-spacex-920m-per-month-for-compute/
+- Disclosure mechanics: SpaceX S-1/A (PO-basis, Commitments & Contingencies footnote; AI capex categories) https://www.sec.gov/Archives/edgar/data/1181412/000162828026040364/spaceexplorationtechnologib.htm ; Nvidia 10-Q customer concentration anonymized "Customer A/B/C/D". First post-IPO 10-Q (Q2 2026) due ~late July to August 2026.
+- Grok benchmark: Artificial Analysis Intelligence Index (Grok 4.3 = 53, #4; Opus 4.8 = 61.4; GPT-5.5 = 60.2; Gemini 3.1 Pro = 57). Grok 5 ship odds ~45% before Sept 2026 (Manifold).
+- Starlink 2026 segment estimate (Quilty): ~$20B rev / ~$14B EBITDA / ~16.8M subs (Consumer ~$11.3B, Enterprise ~$1.68B, Maritime ~$1.94B, Starshield ~$3.2B). Balance sheet (S-1): FY2025 capex ~$20.7B, cash ~$24.7B YE2025 -> ~$15.9B Q1 2026 (~$8.8B/qtr burn), ~$29.1B debt.
 - **$SPCX live quote** (X cashtag widget), Jun 22 2026: ~$168.89, -8.71% on the day.
 
 ## Notes on confidence

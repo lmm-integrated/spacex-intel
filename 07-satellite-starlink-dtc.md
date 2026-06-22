@@ -11,7 +11,7 @@ The actual cash engine. Starlink is the one clearly profitable leg of SpaceX and
 
 ## V3 generation `[MED]`
 
-- **Launches on Starship only** (too large for Falcon 9). Stated specs: ~**1 Tbps downlink per sat** (~10x V2 Mini), optical laser links, enhanced Direct-to-Cell.
+- **Launches on Starship only** (too large for Falcon 9). Stated specs: ~**1 Tbps downlink per sat** (~10x V2 Mini), optical laser links, enhanced Direct-to-Cell. ~60 V3 sats per Starship launch, framed as >20x the capacity added per Falcon V2 launch (~60 Tbps/flight).
 - **No operational V3 deployed yet.** Target to begin operational V3 batches **H2 2026**, now at schedule risk because Starship is grounded (see [04-starship-space.md](04-starship-space.md)). This is the single most important dependency in the growth story: V3 capacity underpins the post-IPO narrative, and it is gated on Starship returning to flight.
 
 ## Manufacturing & launch `[HIGH]`
@@ -27,7 +27,7 @@ The actual cash engine. Starlink is the one clearly profitable leg of SpaceX and
 - **2025 adjusted EBITDA ~$7.17B (~63% margin)**; Q1 2026 $2.09B. **Starlink is strongly profitable** (do not confuse this with the net-loss-making parent).
 - **10.3M subscribers** (end-Q1 2026), 160 countries. Blended **ARPU fell from ~$99 (2023) to ~$66 (early 2026)** as the mix shifted to lower-priced residential in more countries.
 - First US residential price hike in years (June 2026): plans up $5-10/mo.
-- Segments: maritime, aviation growing fast (United Airlines deal >1,000 aircraft). Quilty Space estimates ~$20B Starlink revenue / ~16.8M subs for 2026 `[MED: estimate, S-1 stops at Q1'26]`.
+- Segments: maritime, aviation growing fast (United Airlines deal >1,000 aircraft, free for MileagePlus). Quilty Space 2026 estimate `[MED: estimate, S-1 stops at Q1'26]`: ~$20B revenue, ~$14B EBITDA, ~16.8M subs, split roughly Consumer ~$11.3B, Enterprise ~$1.68B, Maritime ~$1.94B, Starshield ~$3.2B.
 
 ## Government & defense `[HIGH unless noted]`
 

@@ -11,10 +11,10 @@ Musk, **April 8, 2026** (X, 28.3M views), verbatim:
 So the 6-trillion and 10-trillion parameter models are real, and were **in training, not shipped**, as of April. Status as of 2026-06-22:
 
 - **Current shipping flagship:** Grok 4.x (~**Grok 4.3**, shipped ~Apr 30, 2026), 1M-token context, native video input. `[MED]`
-- **Grok 5 (the 6T model):** still in training on Colossus 2, **not released**. Targets slipped repeatedly (late 2025 → Q1 → Q2 2026). `[HIGH on "not shipped"]`
+- **Grok 5 (the 6T model):** still in training on Colossus 2, **not released**. Targets slipped repeatedly (late 2025 → Q1 → Q2 2026), full API access now pointed at Q3. Prediction markets put **~45% odds it ships before September 2026** (Manifold), so a "frontier by September" outcome is an aggressive case, not a base case. `[MED]`
 - **10T model:** pure aspiration, still pre-training, no release window. The "beat Anthropic" moonshot, est. ~$1.5B+ training cost. `[LOW]`
 - **V9-Medium:** a separate **1.5T coding-focused model** trained on Cursor developer-workflow data, shipped ~**June 16, 2026** in consumer Grok and SuperGrok (API not yet open). This ties to the Cursor acquisition. `[MED]`
-- **Benchmarks:** no independent Grok 5 / V9-Medium numbers yet. For reference, Grok 4 trailed the frontier on coding (SWE-bench ~75% vs Claude Opus 4.7 at 87.6%). Grok is currently **behind** Claude/GPT on coding. `[MED]`
+- **Benchmark standing (the gap to close):** Grok 4.3 scores **53 on the Artificial Analysis Intelligence Index, 4th place**, behind **Claude Opus 4.8 (61.4)**, GPT-5.5 (60.2), and Gemini 3.1 Pro (57). So xAI is **frontier-adjacent but not at the frontier**; the 6T/10T parameter bet is the attempt to close that ~8-point gap on Colossus 2. No independent Grok 5 / V9-Medium numbers exist yet. `[MED]`
 
 "Some catching up to do" is Musk's own framing, and it's accurate: the parameter-count race is a bet that scale on Colossus 2 closes a real current quality gap.
 

@@ -51,6 +51,13 @@ xAI's Colossus 1 had an "embarrassingly low" ~11% training utilization on its mi
 
 **Caveat `[HIGH]`:** Musk characterized the Anthropic deal as "a 180-day lease with 90-day mutual cancellation." Both leases reportedly carry 90-day mutual exit clauses, so the multi-year "$40B / $30B" totals are soft run-rate figures, not locked commitments.
 
+### Lease renewal risk (the single biggest swing factor) `[HIGH]`
+
+- **The 90-day cancellation windows become exercisable after Dec 31, 2026.** Q1 2027 is the first real renew-or-cancel signal.
+- **Both customers are building their own silicon during the very window these leases run.** Anthropic has locked up 5 GW+ of Google/Broadcom TPU capacity (~1 GW in 2026 scaling to 3 GW+ in 2027) plus up to 5 GW of Amazon Trainium; Google owns the TPU stack itself and called its SpaceX deal "short-term" bridge capacity for a Gemini demand spike.
+- **The S-1 explicitly warns** that if Google and Anthropic execute their own buildouts, the ~$26B combined compute revenue could compress within 18-24 months, and that xAI (burning ~$10B/yr) could face a cash crisis if the Anthropic contract terminates.
+- Near-term (through 2026) GPU scarcity supports the leases holding; the structural risk is post-2026 substitution to in-house ASICs/TPUs. So the bull case (file 09) lives or dies on whether these convert from bridges into multi-year commitments, which none of the three parties has signaled.
+
 ## Vera Rubin commitment: the ~20% is real, but it's an analyst's channel check `[MED→LOW]`
 
 The number you're reaching for exists, but its provenance is softer than "SpaceX committed to X%":
@@ -61,6 +68,15 @@ The number you're reaching for exists, but its provenance is softer than "SpaceX
 - **Timing:** Vera Rubin (VR200 / Vera Rubin NVL72) hit full production per CES Jan 2026; volume ships H2 2026 ("this fall"). Earliest realistic xAI Rubin deployment is late 2026/2027. Colossus 2 today is Blackwell (GB200/GB300), not Rubin.
 
 **Honest framing:** an Altimeter partner *estimates* SpaceX/xAI has informally locked up to ~20% of early, supply-constrained Vera Rubin output, on the thesis they can stand up compute faster than anyone. Credible market intelligence, but not a committed or disclosed figure, and the S-1 says SpaceX holds no long-term supplier contracts.
+
+### Would a Vera Rubin purchase even show up in filings? `[HIGH]`
+
+Mostly no, not where you'd expect. Because the S-1 says SpaceX buys chips purchase-order-only with no long-term binding orders, a routine PO is **not** a disclosable event. A firm, material, non-cancellable commitment would surface in:
+- the **"Commitments & Contingencies" footnote** of the **first post-IPO 10-Q** (Q2 2026, quarter ending June 30, due ~late July to August 2026), or MD&A capex language;
+- an **8-K** only if it is a "material definitive agreement" (Item 1.01), which a routine PO is not.
+- On **Nvidia's side**: only as an anonymized ">10% customer" ("Customer A/B/C/D") in its 10-Q, or a partner mention in a Rubin keynote. Nvidia gives aggregate backlog ("$1T Blackwell+Rubin through 2027"), never a per-customer figure.
+
+So the cleanest tell that SpaceX has committed to big Rubin volume will be the **Q2 10-Q commitments footnote and the capex line**, not a press release. As of now, SpaceX's disclosed GPU dealings are about leasing capacity *out*, not committed purchases *from* Nvidia.
 
 ## "Colossus 3" and MACROHARDRR: no, it's not a third Colossus `[HIGH]`
 

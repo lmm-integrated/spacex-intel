@@ -1,6 +1,6 @@
 # SpaceX Intelligence Brief
 
-**Point-in-time research as of 2026-06-22.** AI-assisted synthesis from public sources only. Not investment advice. Private working doc.
+**Point-in-time research as of 2026-06-22** (last full audit 2026-06-22). AI-assisted synthesis from public sources only. Not investment advice. Private working doc. The SPCX price is a snapshot (~$165 on 2026-06-22); a weekly routine refreshes the price and catalyst statuses.
 
 ---
 
@@ -42,7 +42,7 @@ In ~5 months Musk turned SpaceX into a vertically integrated space-and-AI giant.
 ## Methodology & caveats
 
 - Researched via multi-agent web search with adversarial fact-checking, plus a manual validation pass on X.com (logged-in session).
-- Point-in-time as of **2026-06-22**. Fast-moving; figures will drift. The SPCX share price in particular is volatile (it was ~$169 and down ~8.7% on the day this was written, off a $225 high from June 16).
+- Point-in-time as of **2026-06-22**. Fast-moving; figures will drift. The SPCX share price in particular is volatile (~$165 and down ~11% on the day this was written, off the $225.64 high from June 16).
 - Several items are explicitly labeled estimates or computed values. Verify against the cited primary source before relying on any specific number.
 - Not financial advice.
 

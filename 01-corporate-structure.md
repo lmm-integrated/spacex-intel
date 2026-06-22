@@ -7,7 +7,7 @@ The single most important thing to get right, because almost every confusing hea
 SpaceX is now the **parent** that absorbed xAI, not a sibling. Two moves built it:
 
 1. **2025-03-28** `[HIGH]`: xAI acquired X Corp (the old Twitter) in an all-stock deal, valuing xAI at ~$80B and X at ~$33B. X and Grok folded into xAI. (Sullivan & Cromwell, deal counsel.)
-2. **2026-02-02** `[HIGH]`: **SpaceX acquired xAI** in an all-stock deal: SpaceX valued ~$1T, xAI ~$250B, combined **~$1.25 trillion** (the largest merger ever recorded). Exchange ratio 0.1433 SpaceX shares per xAI share (xAI $75.46, SpaceX $526.59). xAI became a wholly owned SpaceX subsidiary; X and Grok came along inside it. (CNBC, Bloomberg, Fortune, TechCrunch; SpaceX S-1.)
+2. **2026-02-02** `[HIGH]`: **SpaceX acquired xAI** in an all-stock deal: SpaceX valued ~$1T, xAI ~$250B, combined **~$1.25 trillion** (the largest merger ever recorded). Exchange ratio 0.1433 SpaceX shares per xAI share (xAI $75.46, SpaceX $526.59). xAI became a wholly owned SpaceX subsidiary; X and Grok came along inside it. Structured as an all-stock reverse-triangular merger (two Nevada intermediaries formed Jan 21 2026, insulating SpaceX from xAI liabilities), with a $75.46/share cash-redemption alternative for some xAI holders. (CNBC, Bloomberg, Fortune, TechCrunch, D&O Diary; SpaceX S-1.)
 
 By **May 2026** `[HIGH]`, Musk said xAI would cease to exist as a standalone company, with Grok and X operating as a SpaceX AI division branded **"SpaceXAI."** The S-1 reports the consolidated company across three segments: **Space, Connectivity (Starlink), and AI.**
 

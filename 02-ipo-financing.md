@@ -19,7 +19,7 @@ Source: SpaceX official pricing announcement (content.spacex.com); CNBC, NPR, NB
 | 2026-06-12 (open) | ~$150 | +11% |
 | 2026-06-12 (close) | ~$160.95 | +19%, briefly >$2T market cap |
 | 2026-06-16 (high) | $225.64 | all-time high |
-| 2026-06-22 | **~$169** | **down ~8.7% on the day** (per live SPCX quote on X) |
+| 2026-06-22 | **~$165** | **down ~11% on the day** (prior close $185; off the $225.64 June 16 high). ~$2.18T market cap on 13.17B shares |
 
 The post-IPO/post-bond enthusiasm is cooling. Selling pressure coincides with the $20B+ debt raise into a cash-burning AI segment and an all-stock Cursor deal that some read as "rich currency funding the burn."
 
@@ -61,13 +61,14 @@ Sources: SEC 8-K; Bloomberg; X: @DeItaone (Walter Bloomberg) and @wallstengine (
 
 ## Pre-IPO valuation markers `[HIGH]`
 
-Secondary/tender offers set the run-up: ~$400B at $212/share (July 2025), ~$800B at $421/share (Dec 2025). These were employee/insider secondary sales, not new primary capital.
+Secondary/tender offers set the run-up: **~$350B (Dec 2024) -> ~$400B at $212/share (July 2025) -> ~$800B at $421/share (Dec 2025) -> ~$1.77T IPO (June 2026)**. The 2025 rounds were employee/insider secondary sales, not new primary capital. Share count to anchor any valuation math: **~13.17B basic shares outstanding** (fully diluted likely modestly higher; not cleanly disclosed).
 
 ## Financials snapshot (FY2025, from the S-1) `[HIGH]`
 
 - Consolidated revenue **~$18.7B** (up ~33% YoY).
 - **Net loss ~$4.9B**; the **AI/xAI segment alone drove a ~$6.35B operating loss** on ~$3.2B of AI revenue.
 - IPO pitched on a **$28.5T TAM**, $26.5T of it tied to AI.
+- **Balance sheet / burn:** ~$20.7B FY2025 capex (AI $12.7B / Connectivity $4.2B / Space $3.8B). Cash fell from ~$24.7B (YE2025) to ~$15.9B (Q1 2026), roughly **$8.8B/quarter burn** driven by AI capex. ~$29.1B long-term debt, mostly the bridge loan. The ~$100.8B cash on hand (June 19) is the IPO proceeds landing on top of that.
 
 The legacy space + Starlink business is the cash engine; the AI arm is the burn. The IPO, the bond, and the compute leases are how they fund it.
 

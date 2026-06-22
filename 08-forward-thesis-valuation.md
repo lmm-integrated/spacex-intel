@@ -45,7 +45,21 @@ Directional scenarios, not predictions. 2025 actuals are the anchor (file 02/07)
 
 ## OPINION: valuation and entry view
 
-**Where it trades (fact):** ~$166/share, **market cap ~$2.19T**, EV ~$2.44T, **~117-131x trailing sales**. For context that is ~6x the richest mega-cap multiple (Nvidia ~20x, Tesla ~15x, CoreWeave ~10x P/S).
+**Where it trades (fact):** ~$165/share, **market cap ~$2.18T** on 13.17B shares (EV ~$2.44T), **~117x trailing 2025 sales (~70x 2026E)**. That is far above any public comp:
+
+| Company | P/S trailing | P/S fwd | 3Y rev growth |
+|---|---|---|---|
+| **SPCX** | **~118x** | **~70x (2026E)** | the whole debate |
+| Nebius | 83x | 14x | +243% |
+| Palantir | 59x | 36x | +53% |
+| Nvidia | 20x | 12x | +46% |
+| Tesla | 15x | 14x | +13% |
+| Alphabet | 11x | 9x | +19% |
+| CoreWeave | 10x | 4x | +98% |
+| Microsoft | 9x | 8x | +17% |
+| Amazon | 3.5x | 3x | +14% |
+
+Even **peak-Nvidia (Jan 2024) only reached ~28x trailing P/S** and has since compressed to ~20x. SPCX's ~118x has no public precedent; it is only defensible on a multi-year forward-revenue ramp.
 
 **Our sum-of-the-parts peg (estimate):**
 - **Starlink** ~$350-550B (high-growth, ~63% EBITDA-margin infrastructure on ~$20B forward revenue).
@@ -53,9 +67,24 @@ Directional scenarios, not predictions. 2025 actuals are the anchor (file 02/07)
 - **AI (Grok + compute book)** ~$250B-1T (huge range: the leasing run-rate is large but cancellable and loss-making today; the last private xAI mark was ~$250B).
 - **Facts-anchored total: ~$0.75-1.4T. With aggressive AI credit: ~$2-3T.**
 
+Independent cross-check: **FutureSearch's SOTP pegs fair value at ~$1.25T (~40% below spot)**: Starlink (all forms) $602B [consumer broadband $380B, enterprise/maritime/aviation $147B, Direct-to-Cell $75B], xAI/Grok $258B, Starship $170B, government/defense $123B, Falcon 9/Heavy $100B.
+
 So at **~$2.2T, the market is already pricing near-full execution** of the AI-compute + Starship + Direct-to-Cell trifecta. The profitable, growing Starlink engine and the verified multi-billion-dollar leases are real and support a large number, but probably **$0.9-1.4T on what exists today**. The gap to ~$2.2T is the forward bet.
 
-**The analyst spread frames the debate:** Arete Buy **$401** (Street-high, V3/Starship thesis), Oppenheimer Outperform **$250** ("only vertically integrated AI company"), CFRA **Sell $115**, Jim Chanos openly short ("not worth $1.75T on any reasonable assumptions"), Morningstar fair value reportedly ~$63 `[unverified]`. That ~6x spread between bull and bear targets is itself the signal: this is a narrative stock where the valuation depends almost entirely on which forecast you believe.
+**The analyst spread frames the debate:**
+
+| Analyst | Target | Implied cap | Rating |
+|---|---|---|---|
+| Arete (Beale) | $401 | ~$5.3T | Buy (Street-high) |
+| Oppenheimer (Horan) | $250 | ~$3.3T | Outperform |
+| KGI | $227 | ~$3.0T | Outperform |
+| Wolfe (Walton) | $175 | ~$2.3T | Outperform |
+| New Street | $165 | ~$2.2T | (spot, no rating) |
+| CFRA (Snyder) | $115 | ~$1.5T | Sell |
+| Morningstar | $63 | ~$0.83T | Sell |
+| **Consensus** | **~$188 avg / $175 median** | | Buy |
+
+Arete's $401 implies **~$66B of 2027 revenue at ~80x sales**, plus Starlink V3 (needs Starship) and AI losses narrowing. Jim Chanos is openly short ("not worth $1.75T on any reasonable assumptions"). Morningstar's $63 is scenario-based: ~$23.50/share of AI value in the base ("MVP") case vs ~$108 in the "moonshot" (SpaceX capturing ~1/5 of global AI compute by 2040). The ~6x bull-bear spread is itself the signal: a narrative stock priced almost entirely on which forecast you believe.
 
 **Is it an investment target / is this an entry?** Our view, clearly labeled opinion:
 - **The business is assembling in the right direction.** Vertical integration (launch + the dominant satellite network + a frontier AI lab + a fast-to-build compute fleet) is genuinely unique, and the pieces reinforce each other.
