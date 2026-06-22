@@ -1,0 +1,74 @@
+# 02 · IPO, share performance & financing
+
+## The IPO `[HIGH]`
+
+- **Priced 2026-06-11, debuted 2026-06-12** on Nasdaq under ticker **SPCX**.
+- **$135.00/share**, 555,555,555 primary Class A shares, **~$75B raised** at a **~$1.77 trillion** implied valuation. Largest IPO in history (beats Saudi Aramco's ~$29.4B by >2x).
+- Greenshoe exercised 2026-06-15 (+83.3M shares), lifting the total to **~$85.7B**.
+- Lead underwriters: Goldman Sachs, Morgan Stanley (with BofA, Citi, JPMorgan).
+- **Primary-only offering:** no existing holder sold at listing; all proceeds went to SpaceX.
+- Issuer is the consolidated parent, Space Exploration Technologies Corp. Not a Starlink carve-out.
+- Musk reportedly became the **world's first trillionaire** on the debut.
+
+Source: SpaceX official pricing announcement (content.spacex.com); CNBC, NPR, NBC, Fortune.
+
+## Share performance `[MED]`
+
+| Date | Price | Note |
+|------|-------|------|
+| 2026-06-12 (open) | ~$150 | +11% |
+| 2026-06-12 (close) | ~$160.95 | +19%, briefly >$2T market cap |
+| 2026-06-16 (high) | $225.64 | all-time high |
+| 2026-06-22 | **~$169** | **down ~8.7% on the day** (per live SPCX quote on X) |
+
+The post-IPO/post-bond enthusiasm is cooling. Selling pressure coincides with the $20B+ debt raise into a cash-burning AI segment and an all-stock Cursor deal that some read as "rich currency funding the burn."
+
+## The equity lockup (employees + existing investors)
+
+This is the detailed structure. ~**95% of shares are frozen at IPO**; only ~4-5% public float trades initially. Two regimes:
+
+### Regime A: employees & most eligible pre-IPO holders (accelerated tiered schedule) `[MED]`
+
+- **First major unlock ~Aug 11, 2026** (after Q2 earnings): up to **20%** of eligible locked shares.
+- **Performance kicker:** an extra **+10% (→30% after Q2)** if SPCX holds **≥30% above the $135 IPO price**.
+- **Rolling 7% releases every ~15 days** from late August through late October (the 70/90/105/120/135-day tranches).
+- **Biggest single tranche ~Nov 9, 2026** (after Q3 earnings): **+28%**.
+- **Full unlock for eligible shares by ~Dec 9, 2026** (180 days post-IPO).
+
+### Regime B: Musk & certain major investors (the long lock) `[HIGH]`
+
+- **Separate 366-day lockup**, unlocking **~mid-June 2027**.
+- **No early releases**, explicitly carved out of every accelerated provision above.
+
+So the "existing investors" answer is a split: a subset of major investors is locked alongside Musk for a full year with no early exit, while employees and the rest of the eligible pool ride the tiered schedule that starts unlocking in August.
+
+Sources: SpaceX S-1 / S-1/A (lockup terms); CNBC (2026-05-21), Motley Fool, Morningstar; X: @ColinTCrypto (Jun 16 2026) for the consolidated schedule.
+
+### Employee wealth event `[MED]`
+
+Widely reported that the IPO created **~4,400 employee millionaires in a single day, ~400 worth >$100M** (welders, technicians, cafeteria staff included, from two decades of equity comp). This has fed a live political fight on X over a Khanna/Altman proposal for a 2.5% tax on AI companies. Sources: X @heyshrutimishra (Jun 12), @WillSherwood.
+
+## The debut bond `[HIGH]`
+
+- **Launched 2026-06-22** (the day this brief was written): SpaceX's **inaugural offering of senior unsecured notes**, at least **$20B**, offered to QIBs under Rule 144A / Reg S. **Launched but not yet priced**, so coupon/yield/tranches are not final.
+- Rated **Baa1 (Moody's) / BBB+ (Fitch) / BBB (S&P)**, assigned 2026-06-18.
+- Arrangers: BofA, Citi, Goldman, JPMorgan, Morgan Stanley.
+- **Use of proceeds:** repay in full the **~$20B bridge loan** (matures Sept 2027) and general corporate purposes. That bridge had itself retired **~$17.5B of high-interest (up to ~12.5% coupon) junk debt inherited from xAI and X Corp**, roughly halving the interest bill.
+- SpaceX disclosed **~$100.8B cash** as of 2026-06-19, plus 18,712 BTC (~$1.3B).
+- Market color (X @junkbondinvest, Jun 21): IG debut of "$20bn+, on a path to potentially hit **$250bn of debt by 2030**," pricing comps from AT&T/Intel (~100bps, bull) to Oracle (~170bps on cash burn, bear).
+
+Sources: SEC 8-K; Bloomberg; X: @DeItaone (Walter Bloomberg) and @wallstengine (both ~Jun 22, citing the SEC filing).
+
+## Pre-IPO valuation markers `[HIGH]`
+
+Secondary/tender offers set the run-up: ~$400B at $212/share (July 2025), ~$800B at $421/share (Dec 2025). These were employee/insider secondary sales, not new primary capital.
+
+## Financials snapshot (FY2025, from the S-1) `[HIGH]`
+
+- Consolidated revenue **~$18.7B** (up ~33% YoY).
+- **Net loss ~$4.9B**; the **AI/xAI segment alone drove a ~$6.35B operating loss** on ~$3.2B of AI revenue.
+- IPO pitched on a **$28.5T TAM**, $26.5T of it tied to AI.
+
+The legacy space + Starlink business is the cash engine; the AI arm is the burn. The IPO, the bond, and the compute leases are how they fund it.
+
+See [SOURCES.md](SOURCES.md) for full citations.
