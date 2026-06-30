@@ -2,7 +2,11 @@
 
 Quick-reference timeline of dated events that confirm or break the thesis. Point-in-time as of 2026-06-29; dates marked **(soft)** are targets that slip. Impact = how much it moves the thesis. Signal = what a bull vs bear outcome looks like.
 
-**Landed since last refresh (2026-06-22 -> 2026-06-29):** the **debut bond priced** (2026-06-23): **$25B** across 5 tranches (5.35-6.65% coupons, 2031-2056), **~$89B order book (~3.5x oversubscribed)**, settled Jun 26. Read: strong credit-market demand, upsized from the ">=$20B" launch. SPCX still fell $165.78 -> $153.23 (~$2.02T cap), down ~16% on the week. No other near-term catalyst landed.
+**Landed since last refresh (2026-06-22 -> 2026-06-29):**
+- **Debut bond priced** (2026-06-23): **$25B** across 5 tranches (5.35-6.65% coupons, 2031-2056), **~$89B order book (~3.5x oversubscribed)**, settled Jun 26. Read: strong credit-market demand, upsized from the ">=$20B" launch.
+- **Grok 4.5 entered private beta** at SpaceX & Tesla (2026-06-28, Musk on X): built on the **1.5T V9 foundation with Cursor data in supplemental training**; xAI-internal evals claim "close to, perhaps exceeding Opus." Caveat: private beta only, no public release, no independent benchmarks. This is **not** the 6T Grok 5 (still pending). Musk also claimed from-scratch models will ship monthly.
+- **Cursor mobile app launched** (2026-06-29, iOS public beta, paid plans): first notable Cursor product ship since the SpaceX option exercise.
+- SPCX still fell $165.78 -> $153.23 (~$2.02T cap), down ~16% on the week, despite the model/product news.
 
 ## The 3 that matter most
 
@@ -21,7 +25,8 @@ Quick-reference timeline of dated events that confirm or break the thesis. Point
 | **~Late Jul to Aug 2026** | **Q2 earnings + first post-IPO 10-Q** | Commitments footnote (Vera Rubin POs?), capex/burn, segment revenue, compute-lease ramp. First hard post-IPO numbers. | High |
 | **~Aug 11, 2026** | **First lockup unlock** (~20% of eligible shares, after Q2 earnings) | Supply hits the float. **+10% extra unlocks if SPCX holds >=30% above $135 (i.e. >=$175.50).** | Med-High |
 | **Late Aug - late Oct 2026** | Rolling 7% lockup tranches (~every 15 days; days 70/90/105/120/135) | Steady supply drip; watch for price pressure into each tranche. | Med |
-| **~Sep 2026 (soft)** | **Grok 5 (6T) ship / "frontier by September" test** | Independent benchmarks (Artificial Analysis, SWE-bench), NOT xAI's own. At/above Opus 4.8/GPT-5.5 = AI becomes a product, not a cost center. Still unshipped as of Jun 29; the Q2 target window is closing (prediction markets ~33% by Jun 30); already slipped from Q1 then Q2. | High |
+| **Now (Jun 28)** | **Grok 4.5 / V9 (1.5T, Cursor-data) private beta** | Watch for public release + the first *independent* benchmark (Artificial Analysis, SWE-bench), NOT xAI's internal "near/above Opus" eval. Real public confirmation near Opus = AI becomes a product, not a cost center. | Med-High |
+| **~Sep 2026 (soft)** | **Grok 5 (6T) ship / "frontier by September" test** | Independent benchmarks, NOT xAI's own. The 6T flagship, distinct from the 1.5T Grok 4.5 already in beta. Still unshipped as of Jun 29; the Q2 target window is closing (prediction markets ~33% by Jun 30); already slipped from Q1 then Q2. | High |
 | **H2 2026 (soft)** | First operational Starlink V3 batch | Gated on Starship cadence + FCC. Real V3 capacity in orbit = the Starlink growth inflection. | High |
 | **Q3 / H2 2026** | Nvidia Vera Rubin production ramp begins | Confirms supply exists; xAI allocation/deployment is the open question (claimed ~20%, unverified). | Med |
 | **Q3 2026 (soft)** | **Cursor / Anysphere acquisition closes** | Regulatory clearance; ~+2.8% dilution; exchange ratio set on the 7-day avg price at close. | Med |

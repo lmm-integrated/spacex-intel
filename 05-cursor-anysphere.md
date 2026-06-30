@@ -9,6 +9,13 @@
 
 Sources: official @SpaceX (Jun 16); CNBC, TechCrunch, CBS, Reuters/Yahoo.
 
+## Post-announcement developments `[HIGH]`
+
+- **The joint model shipped.** The "model jointly trained with Cursor" referenced in the Jun 16 @SpaceX post became real: the **1.5T V9 foundation model** baked **Cursor developer-workflow data into supplemental training**, and that foundation underpins **Grok 4.5** (private beta at SpaceX & Tesla from Jun 28; see [06-grok.md](06-grok.md)). So the strategic rationale for the acquisition (Cursor data as a coding-model moat) is now showing up in the model line, even before the deal legally closes (~Q3).
+- **Cursor mobile app launched 2026-06-29** (iOS public beta, all paid plans): prompt cloud agents from a phone, pick a frontier model, voice input, Remote Control of agents running on your desktop, Live Activities / push notifications, and review diffs / merge PRs from mobile. First notable Cursor product ship after the SpaceX option exercise (Cursor itself still brands as Anysphere; no SpaceX mention in the changelog). Follows comparable mobile coding apps from Anthropic and OpenAI. `[HIGH]`
+
+Sources: Musk (X, Jun 28); Cursor changelog (Jun 29); TechCrunch (Jun 29).
+
 ## The path to the deal `[HIGH]`
 
 | Date | Event |
