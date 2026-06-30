@@ -45,7 +45,7 @@ Directional scenarios, not predictions. 2025 actuals are the anchor (file 02/07)
 
 ## OPINION: valuation and entry view
 
-**Where it trades (fact):** ~$165/share, **market cap ~$2.18T** on 13.17B shares (EV ~$2.44T), **~117x trailing 2025 sales (~70x 2026E)**. That is far above any public comp:
+**Where it trades (fact):** ~$153/share (2026-06-29), **market cap ~$2.02T** on 13.17B shares (EV ~$2.27T, higher with the newly priced $25B notes), **~108x trailing 2025 sales (~65x 2026E)**. That is far above any public comp:
 
 | Company | P/S trailing | P/S fwd | 3Y rev growth |
 |---|---|---|---|
@@ -104,4 +104,4 @@ Arete's $401 implies **~$66B of 2027 revenue at ~80x sales**, plus Starlink V3 (
 - Lockup unlocks (Aug 11, rolling through Dec 9) -> likely near-term supply/volatility, possible better entry.
 - Bond pricing (coupon/size) -> reads on how the credit market prices the AI burn.
 
-_Analysis by Claude Opus 4.8, 2026-06-22. Not financial advice; not a recommendation; we are not a licensed advisor. See files 01-07 for the underlying facts and SOURCES.md for citations._
+_Analysis by Claude Opus 4.8, point-in-time 2026-06-29. Not financial advice; not a recommendation; we are not a licensed advisor. See files 01-07 for the underlying facts and SOURCES.md for citations._

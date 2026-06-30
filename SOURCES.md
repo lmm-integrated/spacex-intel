@@ -1,6 +1,6 @@
 # Sources
 
-All citations for this brief. Grouped by primary filings, official posts, press, and X.com posts. Point-in-time as of 2026-06-22.
+All citations for this brief. Grouped by primary filings, official posts, press, and X.com posts. Point-in-time as of 2026-06-29.
 
 ## Primary filings & official documents
 
@@ -107,3 +107,13 @@ Validation pass run 2026-06-22 from a logged-in session. Citations are handle + 
 ## Notes on confidence
 
 The corporate structure, IPO mechanics, S-1 financials, GPU cluster figures, and the Anthropic/Google leases are primary-sourced and high-confidence. The H100-equivalent totals are our own arithmetic (clearly flagged). The Vera Rubin ~20% is a hedged analyst estimate, not a disclosed commitment, and is contradicted by the S-1's statement that SpaceX holds no long-term chip-supply contracts. AI1 specs are confirmed-as-announced; feasibility is unproven.
+
+## Refresh 2026-06-29 (weekly)
+
+- **SPCX price** (TradingView / Yahoo / CNBC / Google Finance, 2026-06-29): $153.23, market cap ~$2.02T, day range $148.51-$158.40, 52-wk $135.00-$225.64, down ~16% on the week. https://www.tradingview.com/symbols/NASDAQ-SPCX/ ; https://finance.yahoo.com/quote/SPCX/ ; https://www.cnbc.com/quotes/SPCX
+- **Bond PRICED** (2026-06-23, settled 2026-06-26): $25B in 5 tranches: $7.0B 5.350% due 2031, $6.0B 5.650% due 2033, $6.0B 5.875% due 2036, $2.5B 6.600% due 2046, $3.5B 6.650% due 2056; ~$89B order book (~3.5x oversubscribed); proceeds repay the ~$20B bridge loan + general corporate purposes. SpaceX IR pricing release https://ir.spacex.com/updates/releases-details/2026/SpaceX-Announces-Pricing-of-25-Billion-Inaugural-Bond-Issuance-2026-33VwNgsx3O/default.aspx ; CNBC "SpaceX raises $25 billion in debt" (2026-06-23) https://www.cnbc.com/2026/06/23/spacex-debt-bond-market-ipo.html ; CNBC "bond sale drives huge demand, potential headache" (2026-06-29) https://www.cnbc.com/2026/06/29/spacex-debt-diversification-equity-bond-investors-analysts.html ; Blockspace https://blockspace.media/insight/spacex-prices-25-billion-bond-sale/
+- **Starship Flight 13**: targeted early July 2026 (~Jul 3 per trackers; range Jun 30-Jul 31), pending static fires (final week of June) + FAA clearance; FAA could issue early return-to-flight (no public injury/damage from Flight 12). RocketLaunch.Live https://www.rocketlaunch.live/launch/starship-flight-13 ; SpaceflightNow (2026-05-27) https://spaceflightnow.com/2026/05/27/faa-requires-spacex-led-mishap-investigation-before-resumption-of-starship-launches/
+- **Grok 5**: still unshipped as of 2026-06-29; Q2 target window closing; prediction markets ~33% odds shipping by Jun 30; no independent benchmarks. https://grok.com/release-notes ; https://x.ai/news
+- **Cursor / Anysphere**: $60B all-stock deal (announced 2026-06-16) still expected to close Q3 2026 pending regulatory clearance; SpaceX Class A consideration priced on a 7-day VWAP at close. TechCrunch https://techcrunch.com/2026/06/16/spacex-to-acquire-cursor-for-60b-in-stock-days-after-blockbuster-ipo/
+- **Compute leases (unchanged)**: Anthropic $1.25B/mo through May 2029 (Colossus 1), with Musk's "180-day lease, 90-day mutual cancellation" framing contradicting the S-1's three-year language; Google ~$920M/mo Oct 2026-Jun 2029 (~$30B). 90-day cancellation windows still open after Dec 31, 2026. TechCrunch "how long is Anthropic's lease" https://techcrunch.com/2026/05/28/how-long-is-anthropics-lease-with-spacex-opinions-vary/ ; TechCrunch Google https://techcrunch.com/2026/06/05/google-will-pay-spacex-920m-per-month-for-compute/
+- **Vera Rubin**: mass production reported finalized with first deliveries to North American tech giants (xAI among named recipients) targeted July 2026; ~30k units 2026 / ~100k 2027; still HBM4-constrained. TradingKey https://www.tradingkey.com/analysis/stocks/us-stocks/261879616-nvidia-vera-rubin-mass-production-confirmed-tradingkey ; NextBigFuture https://www.nextbigfuture.com/2026/06/spacexai-5-data-center-locations-more-energy-rubin-chips-300-billion-revenue-runrate.html

@@ -30,7 +30,7 @@ Mostly no, not where you'd expect:
 - **Nvidia side:** only as an **anonymized ">10% customer"** ("Customer A/B/C/D") in the 10-Q, or as a *partner mention* in a Rubin keynote. Nvidia gives aggregate backlog ("$1T Blackwell+Rubin through 2027"), never a per-customer number.
 - **Net:** if SpaceX has placed big Rubin POs, the cleanest tell will be the Q2 10-Q commitments footnote and the capex line, not a press release. As of now, SpaceX's disclosed GPU deals are about leasing capacity *out* (Anthropic/Google), not buying *from* Nvidia.
 
-The June 22 bond (>=$20B, IG-rated, ~$100.8B cash already on hand) is stated for refinancing the bridge loan plus "general corporate purposes," which is broad enough to fund GPU/datacenter capex even though that isn't the headline use.
+The bond (priced Jun 23 at $25B, IG-rated, ~$89B order book, ~$100.8B cash already on hand) is stated for refinancing the bridge loan plus "general corporate purposes," which is broad enough to fund GPU/datacenter capex even though that isn't the headline use.
 
 ## The bull flywheel (if the what-ifs hit)
 
@@ -54,7 +54,7 @@ Notes: 2026 compute is a partial-year ramp (Anthropic ~8 mo + Google from Oct + 
 
 ## The valuation runway `[OPINION: model]`
 
-Baseline: ~$165/share, ~$2.18T market cap, **13.17B shares** (use **~13.5B** post-Cursor close, ~+2.8% dilution). Price = revenue x P/S multiple / shares.
+Baseline: ~$153/share (2026-06-29), ~$2.02T market cap, **13.17B shares** (use **~13.5B** post-Cursor close, ~+2.8% dilution). Price = revenue x P/S multiple / shares.
 
 **End-2026, on ~$44B bull revenue:**
 
@@ -90,4 +90,4 @@ For calibration, the full analyst spread: Arete $401 (~$5.3T), Oppenheimer $250 
 
 If you grant every what-if, the model supports a **$250-400 share-price runway over 12-24 months (roughly +50% to +140%)**, converging on the Street-high. But that is a stacked, conditional bet: most of the load-bearing assumptions are rated LOW/MEDIUM, the largest revenue driver is cancellable, and you're betting a ~50-80x sales multiple survives the transition from story to numbers. The cleaner risk/reward is to treat the **Aug-Dec 2026 lockup unlocks** and the **Q2 10-Q + first 90-day lease window (post Dec 31)** as the moments that either confirm the flywheel or break it, and size any position to the fact that this is the speculative tail, not the base case.
 
-_Analysis by Claude Opus 4.8, 2026-06-22. Forecast and opinion, not facts; not financial advice; not a licensed advisor. See [08-forward-thesis-valuation.md](08-forward-thesis-valuation.md) for the balanced thesis and [SOURCES.md](SOURCES.md) for citations._
+_Analysis by Claude Opus 4.8, point-in-time 2026-06-29. Forecast and opinion, not facts; not financial advice; not a licensed advisor. See [08-forward-thesis-valuation.md](08-forward-thesis-valuation.md) for the balanced thesis and [SOURCES.md](SOURCES.md) for citations._

@@ -21,8 +21,9 @@ Source: SpaceX official pricing announcement (content.spacex.com); CNBC, NPR, NB
 | 2026-06-12 (close) | ~$160.95 | +19%, briefly >$2T market cap |
 | 2026-06-16 (high) | $225.64 | all-time high |
 | 2026-06-22 | **$165.78** | **down ~10% on the day** (prior close $185; off the $225.64 June 16 high). ~$2.18T market cap on 13.17B shares |
+| 2026-06-29 | **$153.23** | down ~16% on the week; ~$2.02T market cap. Day range $148.51-$158.40. 52-wk range $135.00-$225.64. Selling continued through the $25B bond pricing (Jun 23). |
 
-_Refresh 2026-06-22: no material changes since the brief was authored earlier today. Price confirmed at $165.78 / ~$2.18T cap; bond still launched-not-priced; FAA Flight 12 investigation still open (Flight 13 targeted early Jul); Cursor deal announced Jun 16, closing Q3; Grok 5 still in training. See [10-catalyst-calendar.md](10-catalyst-calendar.md)._
+_Refresh 2026-06-29: the inaugural bond **priced** (see below) at $25B across 5 tranches on Jun 23, settled Jun 26. SPCX kept sliding, $165.78 -> $153.23 (~$2.02T cap), down ~16% on the week, as the market digested the debt layered onto the cash-burning AI segment. No other near-term catalyst landed: FAA Flight 12 investigation still open (Flight 13 targeted early Jul, ~Jul 3); Cursor deal still set to close Q3; Grok 5 still unshipped (Q2 window closing). See [10-catalyst-calendar.md](10-catalyst-calendar.md)._
 
 The post-IPO/post-bond enthusiasm is cooling. Selling pressure coincides with the $20B+ debt raise into a cash-burning AI segment and an all-stock Cursor deal that some read as "rich currency funding the burn."
 
@@ -53,14 +54,14 @@ Widely reported that the IPO created **~4,400 employee millionaires in a single 
 
 ## The debut bond `[HIGH]`
 
-- **Launched 2026-06-22** (the day this brief was written): SpaceX's **inaugural offering of senior unsecured notes**, at least **$20B**, offered to QIBs under Rule 144A / Reg S. **Launched but not yet priced**, so coupon/yield/tranches are not final.
+- **Launched 2026-06-22, priced 2026-06-23, settled 2026-06-26:** SpaceX's **inaugural offering of senior unsecured notes**, upsized to **$25B** (from the ">=$20B" launch), offered to QIBs under Rule 144A / Reg S. **Five tranches:** $7.0B 5.350% due 2031, $6.0B 5.650% due 2033, $6.0B 5.875% due 2036, $2.5B 6.600% due 2046, $3.5B 6.650% due 2056. The book reached **~$89B of orders (~3.5x oversubscribed)**, one of the largest IG corporate debuts on record, which is what let them upsize from $20B to $25B.
 - Rated **Baa1 (Moody's) / BBB+ (Fitch) / BBB (S&P)**, assigned 2026-06-18.
 - Arrangers: BofA, Citi, Goldman, JPMorgan, Morgan Stanley.
-- **Use of proceeds:** repay in full the **~$20B bridge loan** (matures Sept 2027, ~4.58% rate) and general corporate purposes (broad enough to fund GPU/datacenter capex). That bridge had itself retired **~$17.5B of high-interest (up to ~12.5% coupon) junk debt inherited from xAI and X Corp**, cutting annual interest roughly in half (to ~$900M). Notes reportedly span 5 to 30 year maturities.
+- **Use of proceeds:** repay in full the **~$20B bridge loan** (matures Sept 2027, ~4.58% rate) and general corporate purposes (broad enough to fund GPU/datacenter capex). That bridge had itself retired **~$17.5B of high-interest (up to ~12.5% coupon) junk debt inherited from xAI and X Corp**, cutting annual interest roughly in half (to ~$900M). The priced notes span 5 to 30 year maturities (2031 to 2056), with blended coupons in the 5.35-6.65% range.
 - SpaceX disclosed **~$100.8B cash** as of 2026-06-19, plus 18,712 BTC (~$1.3B).
-- Market color (X @junkbondinvest, Jun 21): IG debut of "$20bn+, on a path to potentially hit **$250bn of debt by 2030**," pricing comps from AT&T/Intel (~100bps, bull) to Oracle (~170bps on cash burn, bear).
+- Market color (X @junkbondinvest, Jun 21): IG debut of "$20bn+, on a path to potentially hit **$250bn of debt by 2030**," pricing comps from AT&T/Intel (~100bps, bull) to Oracle (~170bps on cash burn, bear). Post-pricing read (CNBC, Jun 29): the ~$89B book shows credit-market appetite is strong, but the "headache" is that SpaceX is now a serial issuer funding an AI segment that loses billions, so equity holders absorb the leverage while bondholders sit ahead of them in the capital stack.
 
-Sources: SEC 8-K; Bloomberg; X: @DeItaone (Walter Bloomberg) and @wallstengine (both ~Jun 22, citing the SEC filing).
+Sources: SpaceX IR pricing release (2026-06-23); SEC 8-K; CNBC (2026-06-23, 2026-06-29); Bloomberg; X: @DeItaone, @wallstengine.
 
 ## Pre-IPO valuation markers `[HIGH]`
 
